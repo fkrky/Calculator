@@ -1,2 +1,2 @@
-# Calculator
-Basit işlemler için hesap makinesi 
+# Hesap Makinesi 
+Basit işlemler için python ile yazılmış hesap makinesi.
