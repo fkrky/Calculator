@@ -1,2 +1,3 @@
 # Hesap Makinesi 
-Basit işlemler için python ile yazılmış hesap makinesi.
+4 işlem için tek kullanımlık hesap makinesi.
+
